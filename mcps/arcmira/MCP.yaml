@@ -3,8 +3,8 @@ name: 'Arcmira: YouTube Transcript Search'
 description: >-
   Search indexed YouTube transcripts for timestamped quotes, speaker appearances,
   mentions, sponsors, and organic recommendations. Follow new mentions with
-  monitors. Explicit Premium retrieval can use included credits and on-demand
-  usage within your account budget. Monitor changes require authorized write
+  monitors. A Premium read uses credits from your plan, then your on-demand
+  budget. Monitor changes require authorized write
   access. Coverage and research access depend on your account.
 author: arcmira
 url: https://arcmira.com/docs

@@ -214,9 +214,9 @@ items:
   - id: arcmira
     name: "Arcmira: YouTube Transcript Search"
     description: Search indexed YouTube transcripts for timestamped quotes, speaker appearances, mentions, sponsors, and
-      organic recommendations. Follow new mentions with monitors. A Premium read uses credits from your plan, then any
-      top-up credits, then your on-demand budget. Monitor changes require authorized write access. Coverage and research
-      access depend on your account.
+      organic recommendations. Follow new mentions with monitors. A Premium read uses credits from your plan, then your
+      on-demand budget. Monitor changes require authorized write access. Coverage and research access depend on your
+      account.
     author: arcmira
     url: https://arcmira.com/docs
     category: search
